@@ -12,3 +12,5 @@ Set Playlist connection limits & expiry dates<br><br>
 <b>However</b> i have added a Get Stream link where you can find some streams to use<br>
 <b>Note: Only use streams that have a good connection limit!<br>This panel plays direct streams through a proxy & does not restream</b>
 <h2><b>It is upto you to use this application responsibly</b></h2>
+
+<img width="1666" height="1143" alt="Screenshot 2026-05-21 at 18-57-36 TFMS IPTV Panel" src="https://github.com/user-attachments/assets/09247246-959d-43a5-a701-29b004e1d794" />
