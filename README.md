@@ -1,4 +1,4 @@
-<center><h1><b><u>TFMS IPTV Panel v4.0.0 With D1 SQL & Add More Proxies Section</u></b></h1></center>
+<center><h1><b><u>TFMS IPTV Panel v4.0.2 With D1 SQL & Add More Proxies Section</u></b></h1></center>
 <b>For a full install guide</b> <a href="https://tfms.xyz/firestick/core/tuts/mypanelv4.html">See Here</a><br><br>
 <h2><b>Cloudflare Hosted</b></h2>
 .JS With D1 Database for storing your user details<br>
